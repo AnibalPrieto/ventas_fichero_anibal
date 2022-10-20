@@ -1,0 +1,6 @@
+1|patata|3.89
+2|tomate|1.89
+3|Lechuga|0.89
+4|Pizza|2.89
+5|Bacon|1.99
+6|Mortadela|1.0
